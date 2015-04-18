@@ -3,7 +3,7 @@ To identify three-page link triples
 
 [1]------->[2]----------->[3]
 
-The supports following parameters:
+This support following parameters:
 --------------------------------------------------------------------
 1. Have simply generate the following output:
    <“3, 2”, 1 >
