@@ -1,4 +1,4 @@
-# Map-Reduce-Application
+# IdentifingThreePageLinkTripleByMapReduce
 To identify three-page link triples
 
 [1]------->[2]----------->[3]
